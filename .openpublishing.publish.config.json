@@ -21,7 +21,7 @@
   "branches_to_filter": [
     "live-sxs",
     "master-sxs",
-    "e2e-local-sxs"
+    "e2e-local"
   ],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/IntuneEdu",
   "git_repository_branch_open_to_public_contributors": "live",

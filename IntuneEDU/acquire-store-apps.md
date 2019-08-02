@@ -33,3 +33,5 @@ ms.locfileid: "62146081"
 <span data-ttu-id="bf17b-109">若要详细了解[获取应用商店应用程序通过完整的 Intune 管理体验](https://docs.microsoft.com/intune/deploy-use/manage-apps-you-purchased-from-the-windows-store-for-business-with-microsoft-intune)，请参阅 Intune 文档。</span><span class="sxs-lookup"><span data-stu-id="bf17b-109">To learn more about [acquiring Store apps through the full Intune management experience](https://docs.microsoft.com/intune/deploy-use/manage-apps-you-purchased-from-the-windows-store-for-business-with-microsoft-intune), see the Intune documentation.</span></span>  
 
 <span data-ttu-id="bf17b-110">如果你已准备就绪后，[将应用分配](assign-apps.md)到 Intune for Education 中的用户和设备组。</span><span class="sxs-lookup"><span data-stu-id="bf17b-110">When you're ready, [assign apps](assign-apps.md) to user and device groups in Intune for Education.</span></span>
+
+
